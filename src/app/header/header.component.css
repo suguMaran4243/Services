@@ -1,0 +1,20 @@
+.navigation-bar
+{
+    background-color: aqua;
+    display: block;
+    font-size: 30px;
+}
+.navigation-bar a{
+    padding: 10px;
+    margin: 5px;
+    text-decoration: none;
+    
+}
+.navigation-bar button
+{
+    font-size: 25px;
+    background-color: yellow;
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 10px;
+}
